@@ -1,6 +1,6 @@
 # Cloudflare DNS Update Scripts
 
-Este repositório contém scripts para atualizar registros DNS dinâmicos no Cloudflare em uma instância Ubuntu. Os scripts foram projetados para automatizar o processo de atualização de registros DNS para refletir o IP público atual do servidor.
+Este repositório contém scripts para atualizar registros DNS dinâmicos no Cloudflare em uma instância Google Clound VPS Ubuntu . Os scripts foram projetados para automatizar o processo de atualização de registros DNS para refletir o IP público atual do servidor.
 
 ## Estrutura do Repositório
 
@@ -87,5 +87,3 @@ Se você deseja contribuir com melhorias ou relatar problemas, sinta-se à vonta
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
-
-}
