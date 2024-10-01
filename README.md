@@ -11,9 +11,9 @@ Este repositório contém scripts para atualizar registros DNS dinâmicos no Clo
 ├── scripts/
 │   ├── configure.sh                    # Script para configurar e gerar o arquivo de configuração
 │   └── update-dns.sh                   # Script para atualizar os registros DNS
-└── logs/
+├── logs/
 │   └── update-dns.log                  # Arquivo de log para o script de atualização
-├── install-cloudflare-dns-update.sh    # Arquido de instalação
+└── install-cloudflare-dns-update.sh    # Arquido de instalação
 
 ```
 
